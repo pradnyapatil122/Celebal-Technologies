@@ -1,0 +1,1 @@
+SELECT * FROM HumanResources.Employee WHERE FirstName LIKE '%a%';

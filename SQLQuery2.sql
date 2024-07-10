@@ -1,0 +1,1 @@
+SELECT * FROM Sales.Customer WHERE CompanyName LIKE '%N';
